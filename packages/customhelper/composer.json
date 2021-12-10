@@ -1,0 +1,19 @@
+{
+    "name": "webpane/customhelper",
+    "description": "This package will provide you some helper classes related to datetime and file handling",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Webpane\\Customhelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nasir",
+            "email": "nasir.developer.bd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
